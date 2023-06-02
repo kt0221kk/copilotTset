@@ -223,3 +223,8 @@ window.onload = function () {
     download.setAttribute('download', 'chart.png');
   });
 };
+
+  //平方根を計算する関数
+  function sqrt(x) {
+    return Math.sqrt(x);
+  }
